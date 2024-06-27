@@ -1,0 +1,15 @@
+{
+"users": [
+    {
+        "id": 1,
+        "user_uuid": "440db04c-3684-46ab-99b4-5e42ac0e403a",
+        "username": "Alex Stanchev",
+        "handle": "alexstanchev",
+        "bio" : "I'm a beginner developer and I'm trying my best to be capable of programming :D",
+        "link":
+    }
+],
+"threads": [
+
+]
+    }
